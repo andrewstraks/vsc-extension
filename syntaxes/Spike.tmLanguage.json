@@ -3,7 +3,7 @@
 		"This file has been converted from https://github.com/Microsoft/TypeScript-TmLanguage/blob/master/TypeScriptReact.tmLanguage"
 	],
 	"version": "https://github.com/Microsoft/TypeScript-TmLanguage/commit/e8d2994e044f5b288dc4bced8bdd7da451612169",
-	"name": "Spike (with React support)",
+	"name": "Spike",
 	"scopeName": "source.spike",
 	"patterns": [
 		{
@@ -11,15 +11,6 @@
 		},
 		{
 			"include": "#statements"
-		},
-		{
-			"name": "comment.line.shebang.ts",
-			"match": "\\A(#!).*(?=$)",
-			"captures": {
-				"1": {
-					"name": "punctuation.definition.comment.ts"
-				}
-			}
 		}
 	],
 	"repository": {

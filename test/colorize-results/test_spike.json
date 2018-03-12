@@ -1375,17 +1375,6 @@
 		}
 	},
 	{
-		"c": "**/*.ts",
-		"t": "source.spike meta.function.expression.spike meta.block.spike string.quoted.single.spike",
-		"r": {
-			"dark_plus": "string: #CE9178",
-			"light_plus": "string: #A31515",
-			"dark_vs": "string: #CE9178",
-			"light_vs": "string: #A31515",
-			"hc_black": "string: #CE9178"
-		}
-	},
-	{
 		"c": "'",
 		"t": "source.spike meta.function.expression.spike meta.block.spike string.quoted.single.spike punctuation.definition.string.end.spike",
 		"r": {
@@ -2057,17 +2046,6 @@
 		}
 	},
 	{
-		"c": "**/*.ts",
-		"t": "source.spike meta.function.expression.spike meta.block.spike meta.var.expr.spike string.quoted.single.spike",
-		"r": {
-			"dark_plus": "string: #CE9178",
-			"light_plus": "string: #A31515",
-			"dark_vs": "string: #CE9178",
-			"light_vs": "string: #A31515",
-			"hc_black": "string: #CE9178"
-		}
-	},
-	{
 		"c": "'",
 		"t": "source.spike meta.function.expression.spike meta.block.spike meta.var.expr.spike string.quoted.single.spike punctuation.definition.string.end.spike",
 		"r": {
@@ -2290,17 +2268,6 @@
 	{
 		"c": "'",
 		"t": "source.spike meta.function.expression.spike meta.block.spike string.quoted.single.spike punctuation.definition.string.begin.spike",
-		"r": {
-			"dark_plus": "string: #CE9178",
-			"light_plus": "string: #A31515",
-			"dark_vs": "string: #CE9178",
-			"light_vs": "string: #A31515",
-			"hc_black": "string: #CE9178"
-		}
-	},
-	{
-		"c": "**/*.ts",
-		"t": "source.spike meta.function.expression.spike meta.block.spike string.quoted.single.spike",
 		"r": {
 			"dark_plus": "string: #CE9178",
 			"light_plus": "string: #A31515",
