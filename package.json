@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "spike-framework",
   "engines": {
-    "vscode": "0.10.x"
+    "vscode": "^1.0.0"
   },
   "repository" : "https://github.com/spike-framework/vsc-extension",
   "contributes": {
