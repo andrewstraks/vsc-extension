@@ -2,7 +2,7 @@
     "name": "spike",
     "displayName": "Spike Language",
     "description": "Provides snippets, syntax highlighting, bracket matching and folding in Spike files.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "spike",
     "engines": {
         "vscode": "^1.0.0"
