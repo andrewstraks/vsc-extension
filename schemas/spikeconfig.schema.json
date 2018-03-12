@@ -1,0 +1,7 @@
+{
+	"title": "JSON schema for the Spike configuration file",
+	"type": "object",
+	"default": {
+		
+	}
+}

@@ -1,0 +1,21 @@
+package app.model;
+
+import Rest from spike.core.Rest;
+
+class Rest {
+
+	name: 'x',
+
+	Rest: function(){
+
+	},
+
+	Rest: function(arg){
+
+	},
+
+	test: function(){
+
+	}
+
+}
