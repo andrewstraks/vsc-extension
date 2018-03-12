@@ -1,13 +1,39 @@
 {
   "name": "spike",
-  "displayName": "%displayName%",
-  "description": "%description%",
+  "displayName": "Spike Language",
+  "description": "Provides snippets, syntax highlighting, bracket matching and folding in Spike files.",
   "version": "1.0.0",
-  "publisher": "spike-framework",
+  "publisher": "spike",
   "engines": {
     "vscode": "^1.0.0"
   },
-  "repository" : "https://github.com/spike-framework/vsc-extension",
+  "license": "MIT",
+  "homepage": "http://spikeframework.com",
+  "bugs": {
+    "url": "https://github.com/spike-framework/transpiler/issues"
+  },
+  "icon": "icon.png",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/spike-framework/vsc-extension"
+  },
+  "galleryBanner": {
+    "color": "#309f7c",
+    "theme": "dark"
+  },
+  "keywords": [
+    "spike",
+    "spike framework",
+    "javascript"
+  ],
+  "categories": [
+    "Languages",
+    "Debuggers",
+    "Linters",
+    "Snippets",
+    "Formatters",
+    "Other"
+  ],
   "contributes": {
     "languages": [
       {
